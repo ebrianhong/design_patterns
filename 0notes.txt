@@ -1,0 +1,60 @@
+https://www.lambdatest.com/blog/comprehensive-guide-to-javascript-design-patterns/
+https://www.velotio.com/engineering-blog/design-patterns-in-es6
+
+Design patterns can be considered pre-made blueprint applied to solve a particular design problem. It is not a finished piece of code that can be directly applied to your program. But rather, it is more like a template or description that can give you an idea of approaching a problem and inspiring solutions. 
+
+why patterns?
+- avoid reinventing the wheel
+- codebase maintenance
+- reuseability
+- efficient communication
+- improve object-oriented skills
+
+criticisms:
+- increased complexity - unnecessary use of pattern when simple code would be enough
+- reduced relevance - languages evolve, no longer need certain patterns
+- lazy design - using old patterns instead of coming up with new ways of solving probs
+
+Categories of design pattern
+
+- Creational Design pattern - for handling object creation mechanisms
+  - constructor
+  - factory
+  - abstract factory
+  - prototype
+  - singleton
+  - builder
+
+- Structural Design pattern - for identifying ways to realize relationship between objects
+  - adapter
+  - bridge
+  - composite
+  - decorator
+  - facade
+  - flyweight
+  - proxy
+
+- Behavioral Design pattern - for handling communcation between different objects
+  - chain of responsibility
+  - command
+  - iterator
+  - mediator
+  - memento
+  - observer
+  - state
+  - strategy
+  - template method
+  - visitor
+
+- Concurrency Design pattern
+  - active object
+  - nuclear reaction
+  - scheduler
+
+Architectural Design Pattern
+  - MVC (model - view - controller)
+  - MVP (model - view - presenter)
+  - MVVM (model - view - viewModel)
+
+  
+
